@@ -6,4 +6,6 @@ package theta.solutions.webserviceslecture.Helpers;
 
 public  class  Constants {
     public static final String BASEURL="https://restcountries.eu";
+
+    public static final String SERVERBASEURL="http://192.168.43.68:63620";
 }
